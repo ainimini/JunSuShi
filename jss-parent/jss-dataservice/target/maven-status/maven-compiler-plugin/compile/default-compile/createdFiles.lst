@@ -1,0 +1,13 @@
+com\jss\mapper\AdvisoryMapper.class
+com\jss\mapper\RoleMapper.class
+com\jss\mapper\product\ProductMapper.class
+com\jss\mapper\user\UserRoleMapper.class
+com\jss\mapper\CustomerMapper.class
+com\jss\service\ProductCategoryInfoServiceImpl.class
+com\jss\mapper\user\UserMapper.class
+com\jss\mapper\OrderMapper.class
+com\jss\mapper\ReviewMapper.class
+com\jss\mapper\OrderitemMapper.class
+com\jss\mapper\PermissionMapper.class
+com\jss\mapper\RolePermissionMapper.class
+com\jss\mapper\product\CategoryMapper.class
